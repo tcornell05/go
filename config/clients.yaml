@@ -1,0 +1,9 @@
+# List of clients in the intercom system.
+# Example:
+# clients:
+#   - name: office
+#     address: "192.168.1.100:12345" # IP address and port
+#   - name: barn
+#     address: "192.168.1.101:12345"
+#   - name: doorway
+#     address: "192.168.1.102:12345"
